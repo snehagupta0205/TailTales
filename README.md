@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TailTales
+A centralized platform offering breed insights, user-generated content, and networking opportunities for users. Includes breed categorization, user profiles with pet details, and forums for discussions on health, training, and care.
+>>>>>>> 07780ee1ea22cfffecb4f9fd8b195d6ecd831e5f
